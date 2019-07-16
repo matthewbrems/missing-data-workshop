@@ -10,7 +10,7 @@
 - [FancyImpute in Python](https://pypi.python.org/pypi/fancyimpute)
 - [Boston University Technical Report on Missing Data, Assumptions, and Applications](http://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf)
 - [The prevention and handling of missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
-- [Imputation with Not Missing at Random Data](http://www.stefvanbuuren.nl/mi/docs/mnar.pdf)
+- [Flexible Imputation of Missing Data, 2nd ed.](https://stefvanbuuren.name/fimd/)
 - [How One 19-Year-Old Illinois Man Is Distorting National Polling Averages - NYTimes](https://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html)
 - [Article about Rubin's Rules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727536/)
 - [IBM Walkthrough of Rubin's Rules](https://www.ibm.com/support/knowledgecenter/de/SSLVMB_22.0.0/com.ibm.spss.statistics.algorithms/alg_mi-pooling_rubin_combine.htm)
