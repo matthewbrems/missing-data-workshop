@@ -21,10 +21,10 @@
 - [MissingNo in Python](https://github.com/ResidentMario/missingno)
 - [MissingNo Paper](http://joss.theoj.org/papers/52b4115d6c03864b884fbf3334851322)
 
-##### Rubin's Rules
+##### Rubin's Rules (combining parameter estimates across multiple imputations)
 - [Article about Rubin's Rules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727536/)
-- [IBM Walkthrough of Rubin's Rules](https://www.ibm.com/support/knowledgecenter/de/SSLVMB_22.0.0/com.ibm.spss.statistics.algorithms/alg_mi-pooling_rubin_combine.htm)
-- [R Code for Implementing Rubin's Rules](https://stefvanbuuren.name/mice/reference/pool.html)
+- [Rubin's Rules Formulas](https://bookdown.org/mwheymans/bookmi/rubins-rules.html)
+- [R Code for Pooling Estimates](http://finzi.psych.upenn.edu/R/library/mice/html/pool.html)
 
 #### Non-Statistical References
 - [How One 19-Year-Old Illinois Man Is Distorting National Polling Averages - NYTimes](https://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html)
