@@ -9,6 +9,9 @@
 - [Pattern Submodel Paper from "Biostatistics"](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxy040/5092384)
 - [The prevention and handling of missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 - [Should you use a missing data indicator?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414599/)
+- [Are all biases missing data problems?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643276/)
+- [Accounting for missing data in statistical analyses: multiple imputation is not always the answer](https://academic.oup.com/ije/article/48/4/1294/5382162?login=false#.XVpWZLg4jrU.twitter)
+- [The proportion of missing data should not be used to guide decisions on multiple imputation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6547017/)
 - [Boston University Technical Report on Missing Data, Assumptions, and Applications](http://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf)
 - [Andrew Gelman Chapter on Missing Data - thorough and very good, but academic](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
